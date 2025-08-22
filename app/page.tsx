@@ -271,7 +271,7 @@ export default function HomePage() {
             <span className="text-xl font-bold">AgriGuide AI</span>
           </div>
           <p className="text-gray-400">
-            Capital One Launchpad Hackathon 2024 • Reimagining grassroots intelligence together
+            
           </p>
         </div>
       </footer>
